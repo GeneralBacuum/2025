@@ -1,16 +1,6 @@
 {
     "artifacts": [
         {
-            "diffs": [
-                {
-                    "from": "client-1.10.46.1.jar",
-                    "fromHash": "71c612e80adb1c340f8c3df2a83423c9acfd673b406e4600be7e61fc59849f79",
-                    "hash": "485f366f9c1832daeed9a81bb66b16f13143495ae44b3b77135a41fc59d0e37b",
-                    "name": "client-1.10.47.jar",
-                    "path": "https://repo.runelite.net/diffs/client-1.10.46.1.jar-client-1.10.47.jar.apdiff.gz.jar",
-                    "size": 96602
-                }
-            ],
             "hash": "9244a6ea6444f46c6f29545684da036b517f7743237bb858a9c3b5fcd020bbd8",
             "name": "client.jar",
             "path": "https://github.com/GeneralBacuum/2025/blob/main/client.jar",
