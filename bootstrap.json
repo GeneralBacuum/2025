@@ -1,7 +1,7 @@
 {
     "artifacts": [
         {
-            "hash": "47ce0e11b5527cd86e0e8968dc9030817ab013d1c590afa4a458f295bf2b8364",
+            "hash": "da7a777da43a18d4717fa5e3526a24b74784c87cf2289b4dc11efd8a14b9fbc6",
             "name": "client.jar",
             "path": "https://github.com/GeneralBacuum/2025/raw/refs/heads/main/client.jar",
             "size": 6176462
